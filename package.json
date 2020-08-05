@@ -19,7 +19,7 @@
   "homepage": "https://github.com/bigzjk/fastify-api#readme",
   "dependencies": {
     "@types/node": "^13.11.1",
-    "fastify": "^2.13.1",
+    "fastify": "^2.15.1",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.8.3"
   }
